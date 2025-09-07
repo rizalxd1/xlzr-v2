@@ -1,4 +1,4 @@
-# Configurable Discord Bot
+# Configurable Discord Bot - xlzr
 
 A powerful, feature-rich Discord bot with configurable welcome messages, auto-leveling system, and comprehensive moderation tools. Built with Discord.js v14 and designed for easy customization.
 
@@ -28,8 +28,8 @@ A powerful, feature-rich Discord bot with configurable welcome messages, auto-le
 
 1. **Clone the repository**
 ```bash
-git clone <your-repo-url>
-cd configurable-discord-bot
+git clone https://github.com/rizalxd1/xlzr-v2
+cd xlzr-v2
 ```
 
 2. **Install dependencies**
@@ -209,7 +209,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you encounter any issues or have questions:
 
-1. Check the [Issues](https://github.com/your-username/configurable-discord-bot/issues) page
+1. Check the [Issues]([https://github.com/rizalxd1/xlzr-v2/issues]()) page
 2. Create a new issue with detailed information
 3. Join our support server: [Discord Invite Link]
 
@@ -224,5 +224,6 @@ If you encounter any issues or have questions:
 - [ ] Multiple language support
 
 ---
+
 
 ⭐ **Star this repository if you found it helpful!**
