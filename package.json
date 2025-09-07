@@ -1,0 +1,22 @@
+{
+  "name": "configurable-discord-bot",
+  "version": "1.0.0",
+  "description": "A feature-rich Discord bot with configurable welcome messages, auto-leveling, and warning systems",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["discord", "bot", "welcome", "leveling", "moderation"],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "chalk": "^4.1.2",
+    "fs-extra": "^11.2.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
